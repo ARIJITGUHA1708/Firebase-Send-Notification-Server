@@ -41,6 +41,8 @@ Then, place it in the root folder of your project:
 
        🚀 FCM Notification Server running at http://localhost:3000
 
+5. Upload the p.8 file in Apple Developer Account
+
 API Usage
 
 Endpoint: /send-notification
